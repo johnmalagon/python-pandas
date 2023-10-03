@@ -28,4 +28,4 @@ columna_con_valores_faltantes))
 # datos <- filter(datos, columna > valor)
 # Guardar el conjunto de datos limpio en un nuevo archivo CSV
 write_csv(datos, "ruta_del_archivo_limpio.csv")
-# Resumen estadístico de los datos limpios summary(datos)
+# Resumen estadístico de los datos limpios summary(datos)  

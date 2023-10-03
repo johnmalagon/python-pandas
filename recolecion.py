@@ -22,3 +22,4 @@ data.groupby("columna_agrupadora").agg({"columna1":
 # Reemplazar "columna_agrupadora", "columna1",
 "columna2" y "columna3" por los nombres de las
 columnas relevantes en tu conjunto de datos
+# modificar 
